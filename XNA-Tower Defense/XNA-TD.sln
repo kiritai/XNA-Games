@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA_TD", "XNA-TD\XNA_TD\XNA_TD.csproj", "{3CE90C05-06F2-4C0A-AE40-D6F9C89D6971}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNA_TDContent", "XNA-TD\XNA_TDContent\XNA_TDContent.contentproj", "{02BE7C23-FF76-43AB-AADD-1F0865EF51E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CE90C05-06F2-4C0A-AE40-D6F9C89D6971}.Debug|x86.ActiveCfg = Debug|x86
+		{3CE90C05-06F2-4C0A-AE40-D6F9C89D6971}.Debug|x86.Build.0 = Debug|x86
+		{3CE90C05-06F2-4C0A-AE40-D6F9C89D6971}.Release|x86.ActiveCfg = Release|x86
+		{3CE90C05-06F2-4C0A-AE40-D6F9C89D6971}.Release|x86.Build.0 = Release|x86
+		{02BE7C23-FF76-43AB-AADD-1F0865EF51E9}.Debug|x86.ActiveCfg = Debug|x86
+		{02BE7C23-FF76-43AB-AADD-1F0865EF51E9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

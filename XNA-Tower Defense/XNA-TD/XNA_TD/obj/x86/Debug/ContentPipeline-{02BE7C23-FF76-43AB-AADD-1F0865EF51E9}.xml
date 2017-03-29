@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GUI\Tower-Arrow\arrow-button-hover.png</Source>
+      <Name>GUI\Tower-Arrow\arrow-button-hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\GUI\Tower-Arrow\arrow-button-hover.xnb</Output>
+      <Time>2017-03-29T16:09:56.5282872+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Tower-Arrow\arrow-button-normal.png</Source>
+      <Name>GUI\Tower-Arrow\arrow-button-normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\GUI\Tower-Arrow\arrow-button-normal.xnb</Output>
+      <Time>2017-03-29T16:09:47.5485502+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Tower-Arrow\arrow-button-pressed.png</Source>
+      <Name>GUI\Tower-Arrow\arrow-button-pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\GUI\Tower-Arrow\arrow-button-pressed.xnb</Output>
+      <Time>2017-03-29T16:10:00.9156721+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Map\Grass.bmp</Source>
+      <Name>Textures\Map\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\Textures\Map\Grass.xnb</Output>
+      <Time>2017-03-28T19:37:30.1749785+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Map\Path.bmp</Source>
+      <Name>Textures\Map\Path</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\Textures\Map\Path.xnb</Output>
+      <Time>2017-03-28T19:39:03.9822669+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Enemy-Ghost.bmp</Source>
+      <Name>Textures\Enemies\Enemy-Ghost</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\Textures\Enemies\Enemy-Ghost.xnb</Output>
+      <Time>2017-03-28T20:28:20.6502025+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Towers\Tower-Arrow.png</Source>
+      <Name>Textures\Towers\Tower-Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\Textures\Towers\Tower-Arrow.xnb</Output>
+      <Time>2017-03-28T22:59:15.0837472+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\ToolBarBottom.png</Source>
+      <Name>GUI\ToolBarBottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\GUI\ToolBarBottom.xnb</Output>
+      <Time>2017-03-29T01:13:22.4529369+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Arial.spritefont</Source>
+      <Name>GUI\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\GUI\Arial.xnb</Output>
+      <Time>2017-03-29T01:15:07.4322746+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Towers\Tower-Bullet.png</Source>
+      <Name>Textures\Towers\Tower-Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\Textures\Towers\Tower-Bullet.xnb</Output>
+      <Time>2017-03-29T00:26:31.4076302+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Tower-Spike\spike-button-hover.png</Source>
+      <Name>GUI\Tower-Spike\spike-button-hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\GUI\Tower-Spike\spike-button-hover.xnb</Output>
+      <Time>2017-03-29T17:51:03.3693251+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Tower-Spike\spike-button-normal.png</Source>
+      <Name>GUI\Tower-Spike\spike-button-normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\GUI\Tower-Spike\spike-button-normal.xnb</Output>
+      <Time>2017-03-29T17:50:54.362428+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\Tower-Spike\spike-button-pressed.png</Source>
+      <Name>GUI\Tower-Spike\spike-button-pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\GUI\Tower-Spike\spike-button-pressed.xnb</Output>
+      <Time>2017-03-29T17:51:08.631426+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Towers\Tower-Spike.png</Source>
+      <Name>Textures\Towers\Tower-Spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\Textures\Towers\Tower-Spike.xnb</Output>
+      <Time>2017-03-29T17:50:59.6230024+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Background\Background_Music.mp3</Source>
+      <Name>Audio\Background\Background_Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\Audio\Background\Background_Music.xnb</Output>
+      <Extra>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\Audio\Background\Background_Music.wma</Extra>
+      <Time>2017-03-29T18:51:25.7642637+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{02BE7C23-FF76-43AB-AADD-1F0865EF51E9}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TDContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Programming\XNA - TD\XNA-TD\XNA-TD\XNA_TD\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-03-28T17:10:31.6828557+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
